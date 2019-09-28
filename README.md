@@ -1,2 +1,2 @@
 # RAIR Num 
-Rust Artifical Intelligent Reader of Numbers
+Rust Artificial Intelligent Reader of Numbers
